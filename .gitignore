@@ -1,0 +1,24 @@
+# Node modules & build
+node_modules/
+dist/
+build/
+*.log
+
+# Java & Maven
+target/
+*.class
+.mvn/
+*.jar
+*.war
+
+# IDE & Editor
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
